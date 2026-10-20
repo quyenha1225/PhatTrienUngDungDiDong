@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Quản lý khóa học",
+    "slug": "course-management-mockapi",
+    "scheme": "coursemanager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.example.coursemanagementmockapi" },
+    "ios": { "supportsTablet": true },
+    "web": { "name": "Course Management" }
+  }
+}
